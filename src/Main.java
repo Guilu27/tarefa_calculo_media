@@ -9,6 +9,6 @@ public class Main {
         double mediaDasNotas = somaDasNotas / 4;
 
 
-        System.out.printf("A media das notas e %.2f\n", mediaDasNotas, somaDasNotas);
+        System.out.printf("A media das notas e %.2f\n", mediaDasNotas);
     }
 }
